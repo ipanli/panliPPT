@@ -9,7 +9,7 @@
     "email": "youyadaojia@gmail.com"
   },
   "bin": {
-    "nodeppt": "bin/nodeppt"
+    "panlippt": "bin/panlippt"
   },
   "repository": {
     "type": "git",

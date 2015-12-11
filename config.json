@@ -1,6 +1,6 @@
 {
     "url": "http://ppt.nnn.li",
-    "speaker": "nodeppt demo",
+    "speaker": "panlippt demo",
     "assetsDir": "./assets",
     "pptDir": "./ppts",
     "port": 8080

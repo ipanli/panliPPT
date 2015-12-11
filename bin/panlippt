@@ -2,7 +2,7 @@
 
 var fs = require('fs');
 var path = require('path');
-var nodePPT = require('../lib/nodePPT');
+var nodePPT = require('../lib/panliPPT');
 var versions = require('../package').version;
 var program = require('commander');
 var ipv4 = require('ipv4');
